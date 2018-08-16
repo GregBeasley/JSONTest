@@ -1,0 +1,64 @@
+{
+  "channel": {
+    "id": 529230,
+    "name": "VA_PPI_01",
+    "latitude": "0.0",
+    "longitude": "0.0",
+    "field1": "Sensor Data",
+    "created_at": "2018-06-29T15:42:23Z",
+    "updated_at": "2018-08-01T12:35:58Z",
+    "last_entry_id": 9794
+  },
+  "feeds": [
+    {
+      "created_at": "2018-08-01T12:20:02Z",
+      "entry_id": 9785,
+      "field1": "46.38\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:21:48Z",
+      "entry_id": 9786,
+      "field1": "46.66\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:23:34Z",
+      "entry_id": 9787,
+      "field1": "46.35\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:25:20Z",
+      "entry_id": 9788,
+      "field1": "46.45\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:27:07Z",
+      "entry_id": 9789,
+      "field1": "46.23\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:28:53Z",
+      "entry_id": 9790,
+      "field1": "46.82\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:30:39Z",
+      "entry_id": 9791,
+      "field1": "46.51\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:32:28Z",
+      "entry_id": 9792,
+      "field1": "46.16\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:34:12Z",
+      "entry_id": 9793,
+      "field1": "46.24\r\n\r\n"
+    },
+    {
+      "created_at": "2018-08-01T12:35:58Z",
+      "entry_id": 9794,
+      "field1": "46.32\r\n\r\n"
+    }
+  ]
+}
